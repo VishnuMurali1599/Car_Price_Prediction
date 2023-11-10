@@ -48,11 +48,13 @@ And you are good to go.
  3. AWS Elastic Beanstalk for deployment.
 
 ## Impact:
-      The project demonstrates my proficiency in end-to-end machine learning development, including data preprocessing, model building, and web application deployment.
-      The skills gained include data analysis, feature engineering, model selection, web development, and cloud deployment.
+   The project demonstrates my proficiency in end-to-end machine learning development, including data preprocessing, model building, and web application deployment.
+   
+   The skills gained include data analysis, feature engineering, model selection, web development, and cloud deployment.
 
 
- ![bd8423da-a0e3-4cae-83db-0f16eb7c23b6](https://github.com/VishnuMurali1599/Car_Price_Prediction/assets/133478960/53bcf8fa-1e73-4788-bcb5-e7297d2d1975)
+![93b17a5f-2feb-46d4-b75f-b64af9963369](https://github.com/VishnuMurali1599/Car_Price_Prediction/assets/133478960/5952ceb7-bdc7-48fe-aa2d-8a9dc2604c17)
+
 
 ![98cb8a3a-fdec-4c43-98d0-5838344d279c](https://github.com/VishnuMurali1599/Car_Price_Prediction/assets/133478960/396fc3f3-f7ff-4798-a228-a81246a3fdf6)
 
